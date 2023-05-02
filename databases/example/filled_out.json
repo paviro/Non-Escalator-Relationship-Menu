@@ -1,0 +1,856 @@
+{
+    "last_update": "2023-05-02T16:26:56.691002",
+    "document_version": 2.0,
+    "people": [
+        "Person 1",
+        "Person 2"
+    ],
+    "menu": [
+        {
+            "name": "Communication",
+            "items": [
+                {
+                    "name": "Daily or frequent check ins",
+                    "icon": "must",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Texting",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Phone / video calls",
+                    "icon": "like",
+                    "note": null
+                },
+                {
+                    "name": "In-person visits",
+                    "icon": "must",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Discussing work and hobbies",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Discussing family, partners, relationships",
+                    "icon": "must",
+                    "note": null
+                },
+                {
+                    "name": "Discussing politics and current events",
+                    "icon": "like",
+                    "note": null
+                },
+                {
+                    "name": "Ability to express disagreements or hurt feelings",
+                    "icon": "must",
+                    "note": null
+                },
+                {
+                    "name": "Ability to address and resolve conflict",
+                    "icon": "must",
+                    "note": null
+                },
+                {
+                    "name": "Relationship meetings",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Radical honesty",
+                    "icon": "off-limit",
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Companionship",
+            "items": [
+                {
+                    "name": "Playfulness",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Shared hobbies, activities or interests",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Intellectual & philosophical discussions",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Friendship",
+                    "icon": "must",
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Collaborative",
+            "items": [
+                {
+                    "name": "Working together",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Teaching",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Projects",
+                    "icon": "like",
+                    "note": null
+                },
+                {
+                    "name": "Creativity",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Organizations",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Associations",
+                    "icon": "maybe",
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Religious / Spiritual",
+            "items": [
+                {
+                    "name": "Shared ritual / prayer",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Shared beliefs",
+                    "icon": "must",
+                    "note": null
+                },
+                {
+                    "name": "Discussions",
+                    "icon": "must",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Ceremony & Traditions",
+                    "icon": "like",
+                    "note": null
+                },
+                {
+                    "name": "Divination",
+                    "icon": "maybe",
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Professional & Work",
+            "items": [
+                {
+                    "name": "Combining social, collaborative & financial",
+                    "icon": "off-limit",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Colleagues",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Partners",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Co-operatives",
+                    "icon": "maybe",
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Technology",
+            "items": [
+                {
+                    "name": "Sharing passwords",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Sharing accounts",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Real-time location sharing",
+                    "icon": "like",
+                    "note": null
+                },
+                {
+                    "name": "Accessing computers / phones without asking",
+                    "icon": "off-limit",
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Partnership",
+            "items": [
+                {
+                    "name": "Shared goals / values",
+                    "icon": "like",
+                    "note": null
+                },
+                {
+                    "name": "Routine",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Embracing change in one another",
+                    "icon": "must",
+                    "note": null
+                },
+                {
+                    "name": "Consistency",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Reliability",
+                    "icon": "like",
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Legal",
+            "items": [
+                {
+                    "name": "Marriage",
+                    "icon": "off-limit",
+                    "note": null
+                },
+                {
+                    "name": "Civil partnership",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Business partner",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Adoption",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Power of attorney",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Executor of will",
+                    "icon": "off-limit",
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Financial",
+            "items": [
+                {
+                    "name": "Shared bank account(s)",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Mutual contributions to vacation / activity fund",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Co-ownership of property",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Financial support",
+                    "icon": "like",
+                    "note": null
+                },
+                {
+                    "name": "Large gifts",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Complete financial integration",
+                    "icon": "off-limit",
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Quality Time",
+            "items": [
+                {
+                    "name": "Regularly scheduled time together",
+                    "icon": "must",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Date nights",
+                    "icon": "like",
+                    "note": null
+                },
+                {
+                    "name": "Spending the night",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Sharing activities",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Parallel play",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Vacations together",
+                    "icon": "off-limit",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                }
+            ]
+        },
+        {
+            "name": "Domestic",
+            "items": [
+                {
+                    "name": "Sharing a dwelling/home",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Sharing a sleeping space",
+                    "icon": "off-limit",
+                    "note": null
+                },
+                {
+                    "name": "Cooking together",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Sharing meals",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Chores & Routines",
+                    "icon": "talk",
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Co-Caregivers",
+            "items": [
+                {
+                    "name": "Family (sick, elderly)",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Animals",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Plants",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Children (own or from other partnerships)",
+                    "icon": "must",
+                    "note": null
+                },
+                {
+                    "name": "Long-term commitment (for the above)",
+                    "icon": "must",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                }
+            ]
+        },
+        {
+            "name": "Emotional Intimacy",
+            "items": [
+                {
+                    "name": "Expressing happiness and joy",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Active listening",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Being vulnerable",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Having difficult conversations",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Discussing values / beliefs",
+                    "icon": "must",
+                    "note": null
+                },
+                {
+                    "name": "Sharing stories about past",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Sharing hopes for future",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Knowing personal likes & dislikes",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Sharing about mental health challenges",
+                    "icon": "like",
+                    "note": null
+                },
+                {
+                    "name": "Expressing affection",
+                    "icon": "like",
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Physical Intimacy",
+            "items": [
+                {
+                    "name": "Body contact",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Hugs",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Massages",
+                    "icon": "must",
+                    "note": null
+                },
+                {
+                    "name": "Dance",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Cuddles",
+                    "icon": "must",
+                    "note": null
+                },
+                {
+                    "name": "Hand-holding",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Kissing",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Nudity",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Co-Sleeping",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Public displays of affection",
+                    "icon": "off-limit",
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Emotional Support",
+            "items": [
+                {
+                    "name": "Offering support in hard times",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Being asked for advice",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Confidante",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Empathy",
+                    "icon": "like",
+                    "note": null
+                },
+                {
+                    "name": "Insecurities & reassurances",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Supporting mental health work",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                }
+            ]
+        },
+        {
+            "name": "Romantic",
+            "items": [
+                {
+                    "name": "Emotional attraction",
+                    "icon": "like",
+                    "note": null
+                },
+                {
+                    "name": "Feelings of being in love",
+                    "icon": "like",
+                    "note": null
+                },
+                {
+                    "name": "Unmotivated euphoria",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Intense focus",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                }
+            ]
+        },
+        {
+            "name": "Caregiving",
+            "items": [
+                {
+                    "name": "General needs / favours",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Emergencies",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Health / illness",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Sponsorship",
+                    "icon": "must",
+                    "note": null
+                },
+                {
+                    "name": "Age",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "End of life / death",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Disability",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                }
+            ]
+        },
+        {
+            "name": "Social Integration",
+            "items": [
+                {
+                    "name": "Meeting metamors (partners)",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Meeting friends",
+                    "icon": "must",
+                    "note": null
+                },
+                {
+                    "name": "Meeting parents/siblings/extended family",
+                    "icon": "like",
+                    "note": null
+                },
+                {
+                    "name": "Meeting children",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Spending time as a couple with friends/family",
+                    "icon": "off-limit",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Positive relationships with metamors",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Serving as +1 for social events",
+                    "icon": "like",
+                    "note": null
+                },
+                {
+                    "name": "Presenting as a couple in public settings",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Presenting as a couple on social media",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Presenting as a couple in professional settings",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Joint vacations with family/metamors",
+                    "icon": "maybe",
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Sexual",
+            "items": [
+                {
+                    "name": "Mutual masturbation",
+                    "icon": "like",
+                    "note": null
+                },
+                {
+                    "name": "Orgasms",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Oral sex",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Manual sex (fingering & hand jobs)",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Penetrative vaginal sex",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Penetrative anal sex",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Using sex toys",
+                    "icon": "must",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Kinky stuff",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Threesomes or group sex",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Frequency, Safer sex practices & STI testing ",
+                    "icon": "talk",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                }
+            ]
+        },
+        {
+            "name": "Autonomy",
+            "items": [
+                {
+                    "name": "Alone time",
+                    "icon": "like",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Balance of time together and apart",
+                    "icon": "must",
+                    "note": null
+                },
+                {
+                    "name": "Support to pursue independent interests",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Maintaining independent friendships",
+                    "icon": "must",
+                    "note": null
+                },
+                {
+                    "name": "Being sexually exclusive with each other",
+                    "icon": "off-limit",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Being romantically / emotionally exclusive",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Equal distribution of relationship power",
+                    "icon": "like",
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Commitment",
+            "items": [
+                {
+                    "name": "Having a key",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Prioritisation over other partners",
+                    "icon": "like",
+                    "note": null
+                },
+                {
+                    "name": "Relationship labels",
+                    "icon": "must",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Planning for future",
+                    "icon": "like",
+                    "note": null
+                },
+                {
+                    "name": "Expectation of long term involvement",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Commitment to working through challenges",
+                    "icon": "maybe",
+                    "note": null
+                },
+                {
+                    "name": "Commitment to relationship maintenance",
+                    "icon": "maybe",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Pregnancy/children together",
+                    "icon": "off-limit",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                }
+            ]
+        },
+        {
+            "name": "Things to Discuss",
+            "items": [
+                {
+                    "name": "Important boundaries",
+                    "icon": "talk",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Accountability",
+                    "icon": "talk",
+                    "note": null
+                },
+                {
+                    "name": "Security & privacy",
+                    "icon": "talk",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Mental health & trauma",
+                    "icon": "talk",
+                    "note": null
+                },
+                {
+                    "name": "Relationship duration",
+                    "icon": "talk",
+                    "note": null
+                },
+                {
+                    "name": "Living preferences",
+                    "icon": "talk",
+                    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ultricies turpis. Curabitur nec orci sit amet libero elementum varius."
+                },
+                {
+                    "name": "Career importance",
+                    "icon": "talk",
+                    "note": null
+                }
+            ]
+        }
+    ],
+    "schema_version": 1.0
+}

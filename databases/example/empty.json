@@ -1,0 +1,856 @@
+{
+    "last_update": "2023-01-02T16:26:56.691002",
+    "document_version": 1.0,
+    "people": [
+        "Person 1",
+        "Person 2"
+    ],
+    "menu": [
+        {
+            "name": "Communication",
+            "items": [
+                {
+                    "name": "Daily or frequent check ins",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Texting",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Phone / video calls",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "In-person visits",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Discussing work and hobbies",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Discussing family, partners, relationships",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Discussing politics and current events",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Ability to express disagreements or hurt feelings",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Ability to address and resolve conflict",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Relationship meetings",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Radical honesty",
+                    "icon": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Companionship",
+            "items": [
+                {
+                    "name": "Playfulness",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Shared hobbies, activities or interests",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Intellectual & philosophical discussions",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Friendship",
+                    "icon": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Collaborative",
+            "items": [
+                {
+                    "name": "Working together",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Teaching",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Projects",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Creativity",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Organizations",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Associations",
+                    "icon": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Religious / Spiritual",
+            "items": [
+                {
+                    "name": "Shared ritual / prayer",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Shared beliefs",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Discussions",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Ceremony & Traditions",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Divination",
+                    "icon": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Professional & Work",
+            "items": [
+                {
+                    "name": "Combining social, collaborative & financial",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Colleagues",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Partners",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Co-operatives",
+                    "icon": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Technology",
+            "items": [
+                {
+                    "name": "Sharing passwords",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Sharing accounts",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Real-time location sharing",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Accessing computers / phones without asking",
+                    "icon": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Partnership",
+            "items": [
+                {
+                    "name": "Shared goals / values",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Routine",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Embracing change in one another",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Consistency",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Reliability",
+                    "icon": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Legal",
+            "items": [
+                {
+                    "name": "Marriage",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Civil partnership",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Business partner",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Adoption",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Power of attorney",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Executor of will",
+                    "icon": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Financial",
+            "items": [
+                {
+                    "name": "Shared bank account(s)",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Mutual contributions to vacation / activity fund",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Co-ownership of property",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Financial support",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Large gifts",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Complete financial integration",
+                    "icon": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Quality Time",
+            "items": [
+                {
+                    "name": "Regularly scheduled time together",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Date nights",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Spending the night",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Sharing activities",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Parallel play",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Vacations together",
+                    "icon": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Domestic",
+            "items": [
+                {
+                    "name": "Sharing a dwelling/home",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Sharing a sleeping space",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Cooking together",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Sharing meals",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Chores & Routines",
+                    "icon": "talk",
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Co-Caregivers",
+            "items": [
+                {
+                    "name": "Family (sick, elderly)",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Animals",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Plants",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Children (own or from other partnerships)",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Long-term commitment (for the above)",
+                    "icon": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Emotional Intimacy",
+            "items": [
+                {
+                    "name": "Expressing happiness and joy",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Active listening",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Being vulnerable",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Having difficult conversations",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Discussing values / beliefs",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Sharing stories about past",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Sharing hopes for future",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Knowing personal likes & dislikes",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Sharing about mental health challenges",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Expressing affection",
+                    "icon": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Physical Intimacy",
+            "items": [
+                {
+                    "name": "Body contact",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Hugs",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Massages",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Dance",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Cuddles",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Hand-holding",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Kissing",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Nudity",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Co-Sleeping",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Public displays of affection",
+                    "icon": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Emotional Support",
+            "items": [
+                {
+                    "name": "Offering support in hard times",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Being asked for advice",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Confidante",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Empathy",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Insecurities & reassurances",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Supporting mental health work",
+                    "icon": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Romantic",
+            "items": [
+                {
+                    "name": "Emotional attraction",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Feelings of being in love",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Unmotivated euphoria",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Intense focus",
+                    "icon": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Caregiving",
+            "items": [
+                {
+                    "name": "General needs / favours",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Emergencies",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Health / illness",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Sponsorship",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Age",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "End of life / death",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Disability",
+                    "icon": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Social Integration",
+            "items": [
+                {
+                    "name": "Meeting metamors (partners)",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Meeting friends",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Meeting parents/siblings/extended family",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Meeting children",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Spending time as a couple with friends/family",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Positive relationships with metamors",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Serving as +1 for social events",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Presenting as a couple in public settings",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Presenting as a couple on social media",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Presenting as a couple in professional settings",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Joint vacations with family/metamors",
+                    "icon": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Sexual",
+            "items": [
+                {
+                    "name": "Mutual masturbation",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Orgasms",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Oral sex",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Manual sex (fingering & hand jobs)",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Penetrative vaginal sex",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Penetrative anal sex",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Using sex toys",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Kinky stuff",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Threesomes or group sex",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Frequency, Safer sex practices & STI testing ",
+                    "icon": "talk",
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Autonomy",
+            "items": [
+                {
+                    "name": "Alone time",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Balance of time together and apart",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Support to pursue independent interests",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Maintaining independent friendships",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Being sexually exclusive with each other",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Being romantically / emotionally exclusive",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Equal distribution of relationship power",
+                    "icon": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Commitment",
+            "items": [
+                {
+                    "name": "Having a key",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Prioritisation over other partners",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Relationship labels",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Planning for future",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Expectation of long term involvement",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Commitment to working through challenges",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Commitment to relationship maintenance",
+                    "icon": null,
+                    "note": null
+                },
+                {
+                    "name": "Pregnancy/children together",
+                    "icon": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "name": "Things to Discuss",
+            "items": [
+                {
+                    "name": "Important boundaries",
+                    "icon": "talk",
+                    "note": null
+                },
+                {
+                    "name": "Accountability",
+                    "icon": "talk",
+                    "note": null
+                },
+                {
+                    "name": "Security & privacy",
+                    "icon": "talk",
+                    "note": null
+                },
+                {
+                    "name": "Mental health & trauma",
+                    "icon": "talk",
+                    "note": null
+                },
+                {
+                    "name": "Relationship duration",
+                    "icon": "talk",
+                    "note": null
+                },
+                {
+                    "name": "Living preferences",
+                    "icon": "talk",
+                    "note": null
+                },
+                {
+                    "name": "Career importance",
+                    "icon": "talk",
+                    "note": null
+                }
+            ]
+        }
+    ],
+    "schema_version": 1.0
+}
