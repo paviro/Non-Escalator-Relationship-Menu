@@ -74,7 +74,7 @@ if __name__ == '__main__':
 	
 	if DEV_MODE:
 		# Debug webserver
-		app.run(debug=True)
+		app.run(debug=True, host="0.0.0.0", port=8080)
 	else:
 		# Build static files
 		freezer.freeze()
