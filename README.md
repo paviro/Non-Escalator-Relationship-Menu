@@ -1,5 +1,6 @@
 # Non-Escalator Relationship Menu
-![Screenshot of the rendered page](.readme_resources/screenshot.jpg)  
+![Screenshot of the rendered page](.readme_resources/screenshot.jpg)
+## [Demo](https://paviro.github.io/Non-Escalator-Relationship-Menu/)
 
 This tool allows you to render a nice web page representation of a Relationship Menu you filled out with one or multiple partners / friends / colleagues / whatever.   
 
