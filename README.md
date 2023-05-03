@@ -12,8 +12,8 @@ Relationship menus are a great tool that can help you and another person get cle
 ### Preparing the data files
 1. Enter the `databases` directory and duplicate the `example` folder. 
 2. Name your new folder as you see fit, for example, after the people included in the menu. Inside the folder you find two files:
-	3. `empty.json`: A blank template for a relationship menu.
-	4. `filled_out.json`: The same document but filled with some placeholder data.
+	1. `empty.json`: A blank template for a relationship menu.
+	2. `filled_out.json`: The same document but filled with some placeholder data.
 2. You can have multiple menu files in this folder (for example to keep a history of the changes). Each files does need to have a different `document_version` number, the file name is irrelevant to the script.
 3. Look at both files to get a feel for how you need to fill them out. When you feel comfortable you can delete the `filled_out.json` rename the `empty.json` to something like `version_1.json` and start filling it out with another person.
 #### Data schema
