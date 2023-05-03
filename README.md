@@ -6,7 +6,7 @@ This tool allows you to render a nice web page representation of a Relationship 
 It is relatively easy to modify the categories and items included. To render a page you do need to edit some `json` files at the moment though so it might not be completely trivial to use for everyone.
 
 ## About Relationship Menus
-Relationship menus are a great tool that can help you and another person get clear on what exactly you want to share in your relationship. This tool was heavily inspired by [this document](https://www.reddit.com/r/polyamory/comments/pwkdxp/v3_relationship_components_menu_last_update_for/) and the [The Relationship Anarchy Smorgasbord](https://drive.google.com/drive/folders/17Hc3UFkDX3qA4IGYmjxEQhMW9BUOdPxt).
+Relationship menus are a great tool that can help you and another person get clear on what exactly you want to share in your relationship. This tool was heavily inspired by [this document](https://www.reddit.com/r/polyamory/comments/pwkdxp/v3_relationship_components_menu_last_update_for/) and the [The Relationship Anarchy Smorgasbord](https://drive.google.com/drive/folders/17Hc3UFkDX3qA4IGYmjxEQhMW9BUOdPxt). You can find a neat Podcast about the general concept [here](https://www.multiamory.com/podcast/339-the-smorgasbord-of-relationships).
 
 ## How to use it
 ### Preparing the data files
