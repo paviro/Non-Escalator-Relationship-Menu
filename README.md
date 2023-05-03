@@ -76,3 +76,6 @@ The data format for storing a menu currently looks like this:
 3. In the `main.py` file adjust the `RELATIONSHIP_MENU_PATH` variable. Change the part `example` to the name you gave your menu folder.
 4. Execute the script in a terminal or in your IDE.
 5. The `build` folder will include your rendered menu.
+
+## Roadmap
+Maybe I will add an option to actually edit the menus without having to edit json files at some point but if I am honest I probably wont... :D
