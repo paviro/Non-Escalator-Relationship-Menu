@@ -68,7 +68,8 @@ The data format for storing a menu currently looks like this:
 `menu`: An array containing the actual menu data, see below.   
 `schema_version`: Version of the data schema used, you shouldn't need to change this.
 ###### Menu Array
-Possible values for `icon` are `must` | `like` | `maybe` | `off-limit` the default of `null` will render as a not filled out item.
+- Possible values for `icon` are `must` | `like` | `maybe` | `off-limit` the default of `null` will render as a not filled out item.
+- The `note` field allows you to add a note to an item, for example, to clarify what you have decided on.
 ### Rendering a menu
 1. Your computer needs a Python 3 interpreter to use this tool.
 2. Install the required libraries listed in `requirements.txt`
