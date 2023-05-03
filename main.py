@@ -57,8 +57,11 @@ def load_database_files():
 		if os.path.isfile(file) and file.endswith('.json'):
 			with open(file) as f:
 				parsed_json = json.load(f)
-				databases[str(parsed_json['document_version'])] = parsed_json
-				
+				if str(parsed_json['document_version']) in databases:
+					print("It seems that your menu folder contains several files with the same version number!\nPlease make sure that each version number is unique and try again.")
+					exit()
+				else:
+					databases[str(parsed_json['document_version'])] = parsed_json
 	return databases
 			
 def get_menu_versions():
@@ -75,3 +78,4 @@ if __name__ == '__main__':
 	else:
 		# Build static files
 		freezer.freeze()
+		print("Menu has been rendered. Check out the \"build\" folder to see the result!")
