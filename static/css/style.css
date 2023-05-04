@@ -156,8 +156,8 @@ a:visited:hover {
 .modal {
   padding-left: 10px;
   padding-right: 10px;
-  border: none;
   text-align: center;
+  border: none;
   width: 90%;
   height: 90%;
   max-width: 800px;
@@ -378,13 +378,6 @@ a:visited:hover {
   }
   .content .category {
     flex: auto;
-  }
-  .modal {
-    width: 100%;
-    height: 100%;
-  }
-  .modal h1 {
-    padding-top: 20px;
   }
 }
 
