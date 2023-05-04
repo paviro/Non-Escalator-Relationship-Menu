@@ -368,7 +368,7 @@ a:visited:hover {
     margin: 0;
   }
   .content .category {
-    flex: 1 0 300px;
+    flex: auto;
   }
 }
 
@@ -394,9 +394,6 @@ a:visited:hover {
   }
   .header .title-bar h1 {
     font-size: 22px;
-  }
-  .content .category {
-    flex: 1 0 150px;
   }
 }
   
