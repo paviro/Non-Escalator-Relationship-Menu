@@ -81,6 +81,7 @@ a:visited:hover {
   font-size: 20px;
   display: flex;
   flex-flow: wrap;
+  align-items: center;
   text-align: center;
   text-transform: uppercase;
   background: white;
@@ -90,61 +91,68 @@ a:visited:hover {
 }
 
 .header .legend .must {
-  border-left: solid 25px transparent;
-  flex: 1;
+  flex: auto;
 }
 .header .legend .must:before {
   content: "";
   background-image: url("../images/must.png");
   background-size: 20px 20px;
   background-repeat: no-repeat;
+  vertical-align: middle;
+  margin-top: -4px;
+  margin-right: 5px;
   width: 20px;
   height: 20px;
-  margin-left: -25px;
-  position: absolute;
+  display: inline-block;
 }
 .header .legend .like {
-  border-left: solid 25px transparent;
-  flex: 1;
+  flex: auto;
 }
 .header .legend .like:before {
   content: "";
   background-image: url("../images/like.png");
   background-size: 20px 20px;
   background-repeat: no-repeat;
+  vertical-align: middle;
+  margin-top: -4px;
+  margin-right: 5px;
+  margin-left: 10px;
   width: 20px;
   height: 20px;
-  margin-left: -25px;
-  position: absolute;
+  display: inline-block;
 }
 .header .legend .maybe {
-  border-left: solid 25px transparent;
-  flex: 1;
+  flex: auto;
 }
 .header .legend .maybe:before {
   content: "";
   background-image: url("../images/maybe.png");
   background-size: 20px 20px;
   background-repeat: no-repeat;
+  vertical-align: middle;
+  margin-top: -4px;
+  margin-right: 5px;
+  margin-left: 10px;
   width: 20px;
   height: 20px;
-  margin-left: -25px;
-  position: absolute;
+  display: inline-block;
 }
 
 .header .legend .off-limit {
-  border-left: solid 25px transparent;
-  flex: 1;
+  flex: auto;
 }
 .header .legend .off-limit:before {
   content: "";
   background-image: url("../images/off-limits.png");
   background-size: 20px 20px;
   background-repeat: no-repeat;
+  vertical-align: middle;
+  margin-top: -4px;
+  margin-right: 5px;
+  margin-left: 10px;
   width: 20px;
   height: 20px;
-  margin-left: -25px;
-  position: absolute;
+  display: inline-block;
 }
 .modal {
   border: none;
@@ -331,7 +339,7 @@ a:visited:hover {
 
 @media only screen and (max-width: 750px) {
   .header .legend {
-    font-size: 16px;
+    font-size: 15px;
   }
   .header .info {
     margin-top: 7px;
@@ -343,8 +351,11 @@ a:visited:hover {
 }
 
 @media only screen and (max-width: 580px) {
+  .header .legend span{
+    display:none;
+  }
   .header .legend {
-    font-size: 13px;
+    font-size: 15px;
   }
   .header .info {
     font-size: 45px;
@@ -367,7 +378,7 @@ a:visited:hover {
 
 @media only screen and (max-width: 400px) {
   .header .legend {
-    font-size: 15px;
+    font-size: 13px;
   }
   .header .info {
     font-size: 40px;

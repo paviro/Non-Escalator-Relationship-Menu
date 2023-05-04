@@ -7,9 +7,9 @@
    </div>
    {% if current_site == "menu" %}
    <div class="legend">
-      <div class="must">Must Have</div>
-      <div class="like">Like to have</div>
-      <div class="maybe">Maybe / Let's Talk</div>
+      <div class="must">Must<span> Have</span></div>
+      <div class="like">Like<span> to have</span></div>
+      <div class="maybe">Maybe<span> / Let's Talk</span></div>
       <div class="off-limit">Off Limit</div>
    </div>
    {% endif %}
