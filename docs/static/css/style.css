@@ -42,21 +42,20 @@ a:visited:hover {
 }
 .header .title-bar {
   display: flex;
+  flex-flow: wrap;
+  align-items: center;
+  text-align: center;
   justify-content: center;
 }
 .header .title-bar h1 {
-  display: flex;
+  flex:auto;
   margin-left: auto;
-  padding-left: 50px;
+  padding-left: 10px;
   padding-top: 15px;
-  margin-bottom: 20px;
-}
-.header .title-bar h1 span {
-  padding-right: 12px;
+  margin-bottom: 15px;
 }
 .header .info {
   font-size: 50px;
-  margin-top: 10px;
   margin-left: auto;
 }
 .header .info button {
@@ -81,6 +80,7 @@ a:visited:hover {
   font-size: 20px;
   display: flex;
   flex-flow: wrap;
+  align-items: center;
   text-align: center;
   text-transform: uppercase;
   background: white;
@@ -90,61 +90,68 @@ a:visited:hover {
 }
 
 .header .legend .must {
-  border-left: solid 25px transparent;
-  flex: 1;
+  flex: auto;
 }
 .header .legend .must:before {
   content: "";
   background-image: url("../images/must.png");
   background-size: 20px 20px;
   background-repeat: no-repeat;
+  vertical-align: middle;
+  margin-top: -4px;
+  margin-right: 5px;
   width: 20px;
   height: 20px;
-  margin-left: -25px;
-  position: absolute;
+  display: inline-block;
 }
 .header .legend .like {
-  border-left: solid 25px transparent;
-  flex: 1;
+  flex: auto;
 }
 .header .legend .like:before {
   content: "";
   background-image: url("../images/like.png");
   background-size: 20px 20px;
   background-repeat: no-repeat;
+  vertical-align: middle;
+  margin-top: -4px;
+  margin-right: 5px;
+  margin-left: 10px;
   width: 20px;
   height: 20px;
-  margin-left: -25px;
-  position: absolute;
+  display: inline-block;
 }
 .header .legend .maybe {
-  border-left: solid 25px transparent;
-  flex: 1;
+  flex: auto;
 }
 .header .legend .maybe:before {
   content: "";
   background-image: url("../images/maybe.png");
   background-size: 20px 20px;
   background-repeat: no-repeat;
+  vertical-align: middle;
+  margin-top: -4px;
+  margin-right: 5px;
+  margin-left: 10px;
   width: 20px;
   height: 20px;
-  margin-left: -25px;
-  position: absolute;
+  display: inline-block;
 }
 
 .header .legend .off-limit {
-  border-left: solid 25px transparent;
-  flex: 1;
+  flex: auto;
 }
 .header .legend .off-limit:before {
   content: "";
   background-image: url("../images/off-limits.png");
   background-size: 20px 20px;
   background-repeat: no-repeat;
+  vertical-align: middle;
+  margin-top: -4px;
+  margin-right: 5px;
+  margin-left: 10px;
   width: 20px;
   height: 20px;
-  margin-left: -25px;
-  position: absolute;
+  display: inline-block;
 }
 .modal {
   border: none;
@@ -194,8 +201,8 @@ a:visited:hover {
 }
 .content .category .title {
   font-size: 1.5em;
-  padding-top: 5px;
-  padding-bottom: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   margin-bottom: 10px;
   background-color: var(--main-bg-color);
   text-align: center;
@@ -331,50 +338,49 @@ a:visited:hover {
 
 @media only screen and (max-width: 750px) {
   .header .legend {
-    font-size: 16px;
+    font-size: 15px;
   }
   .header .info {
     margin-top: 7px;
   }
   .header .title-bar h1 {
-    margin-top: 5px;
     font-size: 30px;
   }
 }
 
-@media only screen and (max-width: 580px) {
+@media only screen and (max-width: 590px) {
+  .header .legend span, .header .title-bar h1 span{
+    display:none;
+  }
   .header .legend {
-    font-size: 13px;
+    font-size: 15px;
+  }
+  .header .title-bar {
+    text-align: left;
   }
   .header .info {
     font-size: 45px;
-    margin-top: 17px;
   }
   .header .title-bar h1 {
-    margin-top: 8px;
     font-size: 35px;
-  }
-  .header .title-bar h1 span {
-    display: none;
   }
   .wrapper {
     margin: 0;
   }
   .content .category {
-    flex: 1 0 300px;
+    flex: auto;
   }
 }
 
 @media only screen and (max-width: 400px) {
   .header .legend {
-    font-size: 15px;
+    font-size: 13px;
   }
   .header .info {
     font-size: 40px;
-    margin-top: 15px;
+
   }
   .header .title-bar h1 {
-    margin-top: 8px;
     font-size: 25px;
   }
 }
@@ -385,13 +391,9 @@ a:visited:hover {
   }
   .header .info {
     font-size: 30px;
-    margin-top: 18px;
   }
   .header .title-bar h1 {
-    margin-top: 8px;
     font-size: 22px;
   }
-  .content .category {
-    flex: 1 0 150px;
-  }
 }
+  
