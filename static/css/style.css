@@ -202,8 +202,8 @@ a:visited:hover {
 }
 .content .category .title {
   font-size: 1.5em;
-  padding-top: 5px;
-  padding-bottom: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   margin-bottom: 10px;
   background-color: var(--main-bg-color);
   text-align: center;
