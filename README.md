@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> This project is deprecated go to [Relationship-Menu](https://github.com/paviro/Relationship-Menu) for the current version or visit [relationshipmenu.org](https://relationshipmenu.org).
+
 # Non-Escalator Relationship Menu
 ![Screenshot of the rendered page](.readme_resources/screenshot.jpg)
 
